@@ -305,7 +305,7 @@ img {
         z-index: 2;
         top: 2rem;
         right: 2rem;
-        background-image: linear-gradient(to bottom, var(--cor1), var(--cor2), var(--cor3), var(--cor4));
+        background: var(--cor1);
         color: white;
         font-size: 3rem;
         line-height:3rem;
