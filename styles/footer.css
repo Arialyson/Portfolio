@@ -56,7 +56,7 @@
     transition: 0.7s;
 }
 
-.links:hover {
+/*.links:hover {
     transform: rotate(-360deg);
 }
 
@@ -75,3 +75,4 @@
 .transparente:hover {
     opacity: 0;
 }
+*/
