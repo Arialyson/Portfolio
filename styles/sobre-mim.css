@@ -116,11 +116,49 @@ h2 {
 }
 
 @media(max-width:950px){
-
-    .circulo {
-        display: none;
+/*------------------------------*/
+@keyframes html {
+    0% {
+        bottom: 0;
+        left: 185px;
     }
+    100% {
+        bottom: 0;
+        left: 60px;
+    }
+}
+
+@keyframes css {
+    0% {
+        bottom: 0;
+        left: 60px;
+    }
+    100% {
+        bottom: 0;
+        left: 180px;
+    }
+}
+
+.html {
+    bottom: 0;
+    left: 0;
+    animation: html 3s infinite linear alternate-reverse ;
+}
+
+.js {
+    bottom: 0;
+    left: 125px;
+}
+
+.css {
+    bottom: 0;
+    left: 300px;
+    animation: css 3s infinite linear alternate-reverse;
+}
+/*------------------------------*/
     .ajustador-2 {
+        display: flex;
+        justify-content: center;
         max-width: 350px;
         padding: 70px 30px;
     }
