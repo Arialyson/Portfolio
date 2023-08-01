@@ -11,6 +11,8 @@
 .footer {
     width: 100%;
     background-color: black;
+    padding: 50px 0;
+    margin-bottom: 25px;
 }
 
 .footer-conteiner {
