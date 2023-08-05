@@ -10,8 +10,24 @@
 }
 
 .portfolio {
-    background-image: url(../imagens/Logo.png);
+    background-image: url(../imagens/Captura\ de\ Tela\ \(10\).png);
     background-size:cover;
+}
+.pop2 {
+    background-image: url(../imagens/Captura\ de\ Tela\ \(7\).png);
+    background-size: cover;
+}
+.pop3 {
+    background-image: url(../imagens/Captura\ de\ Tela\ \(8\).png);
+    background-size: cover;
+}
+.pop4 {
+    background-image: url(../imagens/Captura\ de\ Tela\ \(9\).png);
+    background-size: cover;
+}
+.pop5 {
+    background-image: url(../imagens/Captura\ de\ Tela\ \(6\).png);
+    background-size: cover;
 }
 
 .projetos {
@@ -78,14 +94,14 @@ button:hover {
     letter-spacing: 5px;
 }
 
-.pro div {
+/*.pro div {
     background-color: var(--cor1);
     width: 1000px;
     text-align: center;
     padding: 5% 0;
     transform: rotate(-50deg);
 }
-
+*/
 .escondido {
     opacity: 0;
     display: none;
