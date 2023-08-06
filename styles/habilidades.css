@@ -97,6 +97,13 @@
 
     .conteiner-descricao {
         max-width: 300px;
+        height: 120px;
+    }
+    .habilidades-pd {
+        padding-top: 0px;
+    }
+    .habilidades-pd h2 {
+        padding-bottom: 20px;
     }
 
 }

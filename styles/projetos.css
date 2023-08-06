@@ -137,5 +137,12 @@ button:hover {
     .pro {
         max-width: 300px;
     }
+    .centralizador {
+        padding: 20px 0 0;
+    }
+    .projetos h2 {
+        padding-bottom: 40px;
+    }
+
 
 }
