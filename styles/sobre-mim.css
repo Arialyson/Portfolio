@@ -160,11 +160,12 @@ h2 {
         display: flex;
         justify-content: center;
         max-width: 350px;
-        padding: 70px 30px;
+        padding: 20px 47px;
     }
 
     .avatar {
         margin-right: 0;
+        height: 335px;
     }
 
 }
