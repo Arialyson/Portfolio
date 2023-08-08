@@ -226,7 +226,7 @@ img {
         grid-template-areas:  
         "desenho"
         "descricao";
-        line-height: 32px;
+        line-height: 46px;
     }
 
     #inicio {
